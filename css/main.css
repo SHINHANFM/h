@@ -1,0 +1,14 @@
+#main{
+  background-color: white;
+  width: 80%;
+  text-align: center;
+  border-radius: 8%
+}
+
+p{font-size: 13px;
+font-family: 'Gaegu', cursive;
+font-weight: 400;
+}
+
+h1 {font-size: 30px;}
+h1 {font-family: 'Gaegu', cursive;}
